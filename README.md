@@ -4,6 +4,11 @@ This tool is used to visualize various stats about films taken from [this page](
 
 This project is focused on such aspects as:
 - Scrapy for data parsing;
-- Unknown relational database for storing the data;
-- HTML, CSS, JS for interactive visualizations;
-- And many more...
+- SQLite for data storage;
+- HTML, CSS, JS for chart visualization.
+
+### Limitations
+Unfortunately, due to inability to register in Heroku in Russian federation, the deployment in GitHub Pages was not successfull.
+
+This is how the main page should look like:
+[image](images/main_page.png)
